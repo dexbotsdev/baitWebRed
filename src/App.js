@@ -28,8 +28,7 @@ function App() {
       <Mission />
       <Echosystem /> 
       <Utility /> 
-      <Roadmap /> 
-      <Faq />
+      <Roadmap />  
 
       <Footer />
     </>

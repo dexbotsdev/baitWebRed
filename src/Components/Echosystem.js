@@ -17,17 +17,17 @@ const Echosystem = () => {
               <Card.Body>
                 <h2 className="marketboxH text-center">Buy/sell Tax</h2>
                 <p className="coinP text-center">
-                Buy and sell tax will be 0 forever.
+                Buy and sell tax will be 5%.
                 </p>
                 <ul>
                   <li className="ul">BUY TAX:
 </li>
                 </ul>
-                <p className="ulitem">0 % Buy tax</p>
+                <p className="ulitem">5% Buy tax</p>
                 <ul>
                   <li className="ul">SELL TAX:</li>
                 </ul>
-                <p className="ulitem">0% Sell tax</p>
+                <p className="ulitem">5% Sell tax</p>
                 <ul>
                   <li className="ul">RENOUNCE OWNERSHIP:</li>
                 </ul>
@@ -36,15 +36,14 @@ const Echosystem = () => {
             </Card>
             <Card className="margintopA echocard cls">
               <Card.Body>
-                <h2 className="marketboxH text-center">$BAIT</h2>
+                <h2 className="marketboxH text-center">$SHIB</h2>
                 <p className="coinP text-center">
                   Native token powering the ecosystem with multiple use cases.
                 </p>
                 <p className="ulbelow">5M Total Supply</p>
                 <ul className="echo2bullet">
-                  <li>60% Presale  </li>
-                  <li>30% Liquidity </li>
-                  <li>10% Marketing</li>
+                  <li>90% to Liquidity  </li>
+                  <li>10% Rewards </li> 
                 </ul>
                 <p className="ulbelow mt-2">Use Cases</p>
                 <button className="echobutton">
@@ -59,7 +58,7 @@ const Echosystem = () => {
                 <h2 className="marketboxH text-center">LIQUIDITY</h2>
 
                 <p className="coinP text-center">
-                100% of liquidity will be locked.
+                90% of liquidity will be locked.
                 </p>
                 <p className="ulbelow mt-5">90% Of supply </p>
                 <button className="echobutton">
@@ -67,11 +66,9 @@ const Echosystem = () => {
                   <img src={lock} />
                   Locked
                 </button>
-                <p className="ulbelow mt-3">10% of Marketing </p>
+                <p className="ulbelow mt-3">10% for Rewards </p>
                 <button className="echobutton mt-0">
-                  {" "}
-                  <img src={lock} />
-                  Locked
+                  {" "} 
                 </button>
               </Card.Body>
             </Card>

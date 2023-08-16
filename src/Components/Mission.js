@@ -19,7 +19,7 @@ const Mission = () => {
                 About <span style={{ color: "#ff8f03" }}>Us </span>
               </h2>
               <p className="missionP">
-              Bait this is bait is a memecoin created from the inspiration of famous 4chan meme of the same name.This is bait refers to a popular online slang expression, used in reference to provocative content or messages, that have been deliberately created to incite arguments.
+              Shibraium Plays: Earn rewards by playing games with SHIB token. Join us to reshape gaming through blockchain innovation.
               </p>
               <Nav className="navicon p-0 m-0">
                 <Nav.Link href="#deets" className="p-0 pl-1  ">
@@ -54,11 +54,11 @@ const Mission = () => {
             <div className="marginAdjustm">
               <img src={Blocktop} className="blockktop mb-3 mobcenter" />{" "}
               <h2 className="missionh2">
-                <span style={{ color: "#ff8f03" }}>$BAIT  </span>
+                <span style={{ color: "#ff8f03" }}>$SHIB  </span>
                 MISSION
               </h2>
               <p className="missionP">
-              The project seeks to away the crypto world industry using memetic magic. All of the degens on ERC20 have been baited here to become rich and prosperous
+              Shibraium Plays: Turning Gaming into Gains, One Doge at a Time – Wow, Much Play, So Earn, Such Fun!
               </p>
             </div>
           </Col>

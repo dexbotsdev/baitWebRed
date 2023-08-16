@@ -14,7 +14,7 @@ const Utility = () => {
       <div className="py-5 my-5">
         <Container data-aos="fade-down">
           {" "}
-          <h2 className="echoH2 utilityH2">Marketing Plans</h2>
+          <h2 className="echoH2 utilityH2">RoadMap</h2>
           <div className="mobileAdjust gap-4 mt-5">
             <div className="SimBox cls">
               <img src={img1} className="iconU" />
@@ -25,12 +25,12 @@ const Utility = () => {
             <div className="SimBox cls margintopA">
               <img src={img2} className="iconU" />
 
-              <p className="simP mt-3">Japanese Marketing</p>
+              <p className="simP mt-3">Website launch and pinksale hosting</p>
             </div>
             <div className="SimBox cls margintopA">
               <img src={img3} className="iconU" />
 
-              <p className="simP mt-3">Chinese Marketing</p>
+              <p className="simP mt-3">Marketing on twitter./telegram</p>
             </div>
           </div>
           <div
@@ -40,7 +40,7 @@ const Utility = () => {
             <div className="SimBox cls margintopA">
               <img src={img4} className="iconU" />
               <p className="simP mt-3">
-              Giveaways and Eth Trendings
+              Kols group marketing and contests.
               </p>
             </div>
             <div className="SimBox cls margintopA">
@@ -59,9 +59,9 @@ const Utility = () => {
               <div className="marginAdjustm mt-5">
                 {" "}
                 <img src={Blocktop} className="blockktop mb-3 mobcenter mt-5" />
-                <h2 className="missionh2">BAITONOMICS</h2>
+                <h2 className="missionh2">SHIBONOMICS</h2>
                 <p className="missionP">
-                100% of liquidity will be  locked for more than 1 year with 0% of team token.
+                9% of liquidity will be  locked for more than 1 year with 10% of Rewards token.
                 </p>
               </div>
             </Col>

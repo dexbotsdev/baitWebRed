@@ -33,7 +33,7 @@ const Hero = () => {
       <div className="mt-5 marginAdjust pb-5" data-aos="fade-down">
         <p className="heroP pt-5">THE BAIT</p>
         <h1 className="heroh1">
-        This is the only CHANCE you have to get $BAIT Airdrop 
+        Shibraium Plays: Unleashing Play-to-Earn Potential with SHIB Token
         </h1>
         <div className="heroh1">
         <NavLink  className="linkButton" href="https://master--baitwhitelist.netlify.app/">
