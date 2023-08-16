@@ -9,7 +9,7 @@ const Echosystem = () => {
       <div className="my-5">
         <p className="problemP ">Universe</p>
         <h2 className="echoH2">
-          <span style={{ color: "#00BF63" }}>The</span> Ecosystem
+          <span style={{ color: "#ff8f03" }}>The</span> Ecosystem
         </h2>
         <Container className="mt-5" data-aos="fade-up">
           <div className="mobileAdjust gap-4">

@@ -16,7 +16,7 @@ const Mission = () => {
               {" "}
               <img src={Blocktop} className="blockktop mb-3 mobcenter" />
               <h2 className="missionh2">
-                About <span style={{ color: "#00BF63" }}>Us </span>
+                About <span style={{ color: "#ff8f03" }}>Us </span>
               </h2>
               <p className="missionP">
               Bait this is bait is a memecoin created from the inspiration of famous 4chan meme of the same name.This is bait refers to a popular online slang expression, used in reference to provocative content or messages, that have been deliberately created to incite arguments.
@@ -54,7 +54,7 @@ const Mission = () => {
             <div className="marginAdjustm">
               <img src={Blocktop} className="blockktop mb-3 mobcenter" />{" "}
               <h2 className="missionh2">
-                <span style={{ color: "#00BF63" }}>$BAIT  </span>
+                <span style={{ color: "#ff8f03" }}>$BAIT  </span>
                 MISSION
               </h2>
               <p className="missionP">

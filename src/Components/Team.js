@@ -69,7 +69,7 @@ const Team = () => {
         <div>
           <p className="problemP">TEAM</p>
           <h2 className="echoH2">
-            <span style={{ color: "#00BF63" }}>Our</span> Team
+            <span style={{ color: "#ff8f03" }}>Our</span> Team
           </h2>
           <Row className="justify-content-center mt-5">
             {teamMembers.map((member) => (
