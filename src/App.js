@@ -27,9 +27,7 @@ function App() {
       </div> 
       <Mission />
       <Echosystem /> 
-      <Utility /> 
-      <Roadmap />  
-
+      <Utility />  
       <Footer />
     </>
   );
