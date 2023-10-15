@@ -31,13 +31,12 @@ const Hero = () => {
   return (
     <>
       <div className="mt-5 marginAdjust pb-5" data-aos="fade-down">
-        <p className="heroP pt-5">THE BAIT</p>
+        <p className="heroP pt-5"></p>
         <h1 className="heroh1">
-        Shibraium Plays: Unleashing Play-to-Earn Potential with SHIB Token
-        </h1>
+         </h1>
         <div className="heroh1">
         <NavLink  className="linkButton" href="https://master--baitwhitelist.netlify.app/">
-            <button className="btn btn-success">PLAY AND WIN AIRDROP</button>
+            <button className="btn btn-danger">PLAY AND WIN AIRDROP</button>
         </NavLink>
           </div> 
       </div>
