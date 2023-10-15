@@ -16,8 +16,7 @@ function NavbarTop() {
       sticky="top"
     >
       <Container fluid className="p-0">
-        <Navbar.Brand href="#home">
-          <img src={logo} className="headlogo" />
+        <Navbar.Brand href="#home"> 
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav" className="mapmob">
