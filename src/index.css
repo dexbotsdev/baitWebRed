@@ -30,7 +30,7 @@ body {
 .bghero {
   position: relative;
   overflow: hidden;
-  height: 38rem;
+  height: 61rem;
 }
 
 .background-video {
@@ -38,8 +38,8 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  height: 170%;
-  object-fit:fill;
+  height: 90%;
+  object-fit:cover;
 }
 .heroh1 {
   position: relative;
