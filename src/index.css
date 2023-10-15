@@ -38,8 +38,8 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: 170%;
+  object-fit:fill;
 }
 .heroh1 {
   position: relative;
@@ -76,7 +76,7 @@ body {
 
   /* Grayscale / 700 */
 
-  color: #ff623e !important;
+  color: #ff0018 !important;
 }
 .nav-link {
   font-family: Minecraft;
@@ -343,7 +343,7 @@ body {
   line-height: 22px;
   letter-spacing: 0.02em;
   text-align: left;
-  color: #ff623e;
+  color: #ff0018;
 }
 .ulitem {
   font-family: Tw Cen MT;
@@ -362,7 +362,7 @@ body {
   line-height: 25px;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #ff623e;
+  color: #ff0018;
 }
 .echo2bullet {
   font-family: Tw Cen MT;
@@ -484,10 +484,10 @@ body {
   /* backdrop-filter: blur(12.5px) !important; */
 }
 .teamcard:hover {
-  border: 1px solid #ff623e !important;
+  border: 1px solid #ff0018 !important;
 }
 .cls:hover {
-  border: 1px solid #ff623e !important;
+  border: 1px solid #ff0018 !important;
 }
 .teamP {
   font-family: Minecraft !important;
@@ -655,7 +655,7 @@ body {
 .timeline .timeline-item:after {
   width: 22px;
   height: 22px;
-  background-color: #ff623e;
+  background-color: #ff0018;
   left: -46px;
   border-radius: 50%;
   content: "";
@@ -748,7 +748,7 @@ body {
   line-height: 30px;
   letter-spacing: 0.02em;
   text-align: right;
-  color: #ff623e;
+  color: #ff0018;
 }
 .navbar-toggler-icon {
   text-align: right;
@@ -769,7 +769,7 @@ body {
 .timeline-1 .event:after {
   width: 22px;
   height: 22px;
-  background-color: #ff623e;
+  background-color: #ff0018;
   left: -64px;
   border-radius: 50%;
 
@@ -1112,7 +1112,7 @@ body {
   animation: moveUpAndDown 2s infinite;
 }
 .nav-link:hover {
-  color: #ff623e !important;
+  color: #ff0018 !important;
 }
 .icon:hover {
   width: 45px !important;

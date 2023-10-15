@@ -12,7 +12,7 @@ const Faq = () => {
           <p className="problemP">FAQ</p>
           <h2 className="echoH2">
             Frequently Asked <br />{" "}
-            <span style={{ color: "#ff623e" }}>Questions</span>
+            <span style={{ color: "#ff0018" }}>Questions</span>
           </h2>
           <Accord />
         </Row>

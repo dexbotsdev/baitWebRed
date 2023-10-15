@@ -12,10 +12,10 @@ import vid from "./Images/heromedia.mp4";
 function App() {
   return (
     <>
-      <div id="Home" className="bghero py-0">
+      <div id="Home" className="bghero">
         <video
           // style={{ width: "500px", height: "500px" }}
-          className="background-video "
+          className="background-video"
           src={vid}
           autoPlay
           muted
