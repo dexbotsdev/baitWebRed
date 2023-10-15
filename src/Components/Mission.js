@@ -16,7 +16,7 @@ const Mission = () => {
               {" "}
               <img src={Blocktop} className="blockktop mb-3 mobcenter" />
               <h2 className="missionh2">
-                About <span style={{ color: "#ff8f03" }}>Us </span>
+                About <span style={{ color: "#ff623e" }}>Us </span>
               </h2>
               <p className="missionP">
               Shibraium Plays: Earn rewards by playing games with SHIB token. Join us to reshape gaming through blockchain innovation.
@@ -54,7 +54,7 @@ const Mission = () => {
             <div className="marginAdjustm">
               <img src={Blocktop} className="blockktop mb-3 mobcenter" />{" "}
               <h2 className="missionh2">
-                <span style={{ color: "#ff8f03" }}>$SHIB  </span>
+                <span style={{ color: "#ff623e" }}>$SHIB  </span>
                 MISSION
               </h2>
               <p className="missionP">
